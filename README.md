@@ -7,6 +7,7 @@
 ## 📌 Overview
 
 This project is a personal portfolio website based on the **Bondi Design template**, customized and enhanced using **Bootstrap**. It showcases my front-end development skills and demonstrates mastery of Bootstrap’s grid system, responsive utilities, and components.
+<br>
 
 ![landing_page](./images/landing.png)
 
